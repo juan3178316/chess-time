@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Monda:wght@400..700&display=swap');
+* {
+	font-family: "Monda", sans-serif;
+	font-style: normal;
+}
+
+body {
+	background-color: blue;
+	background-repeat: repeat;
+}
+
+li {
+	list-style-type: none;
+}
+
+nav {
+	display: grid;
+	position: relative;
+	justify-content: left;
+	justify-items: center;
+}
